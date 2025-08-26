@@ -1,0 +1,3 @@
+configReload:
+  configURL: https://raw.githubusercontent.com/asbachb/quadit-uranium/refs/heads/main/quadit-config.yml
+  interval: 10000
