@@ -6,7 +6,3 @@ targetConfigs:
   targetPath: "forgejo"
   branch: "main"
   schedule: "1/10 * * * * *"
-- url: https://github.com/ubiquitous-factory/quadit
-  targetPath: "samples/helloworld"
-  branch: "main"
-  schedule: "1/10 * * * * *"
