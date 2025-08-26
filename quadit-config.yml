@@ -5,4 +5,4 @@ targetConfigs:
 - url: https://github.com/asbachb/quadit-uranium
   targetPath: "forgejo"
   branch: "main"
-  schedule: "1/10 * * * * *"
+  schedule: "1/30 * * * * *"
