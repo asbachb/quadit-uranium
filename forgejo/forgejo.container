@@ -5,7 +5,7 @@ Environment=USER_GID=1000
 Image=codeberg.org/forgejo/forgejo:11.0.3
 Network=forgejo.network
 PublishPort=3000:3000
-PublishPort=222:22
+PublishPort=3022:22
 Volume=forgejo-data:/data
 
 [Service]
